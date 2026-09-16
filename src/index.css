@@ -19,6 +19,10 @@
   --accent-soft: #dfecef;
   --ring: #6b95a8;
   --shadow: rgba(18, 34, 43, 0.18);
+  --glass-bg: rgba(255, 255, 255, 0.46);
+  --glass-border: rgba(255, 255, 255, 0.65);
+  --glass-text: #17232b;
+  --glass-label: #52616a;
   font-family: "Plus Jakarta Sans", ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -39,6 +43,11 @@
   --accent-soft: #21363f;
   --ring: #98b9c7;
   --shadow: rgba(0, 0, 0, 0.38);
+
+  --glass-bg: rgba(20, 26, 29, 0.38);
+  --glass-border: rgba(255, 255, 255, 0.16);
+  --glass-text: #f4f7f8;
+  --glass-label: rgba(255, 255, 255, 0.62);
 }
 
 html {
@@ -46,6 +55,7 @@ html {
 }
 
 body {
+  
   min-width: 320px;
   margin: 0;
   background: var(--background);

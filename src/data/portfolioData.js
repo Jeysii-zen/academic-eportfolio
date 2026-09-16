@@ -3,9 +3,9 @@ export const student = {
   subject: "Technology for Teaching and Learning 1",
   school: "Pamantasan ng Lungsod ng Maynila",
   program: "Bachelor of Physical Education",
-  status: "Third-year college student",
+  status: "Third-year College Ctudent",
   intro:
-    "This e-portfolio brings together selected academic work, learning experiences, reflections, and milestones from my college journey.",
+    "I am Joshua Z. Ocenada, a current college student 3rd year and studying Bachelor Of Physical Education. This portfolio holds where can upload some materials.",
 };
 
 export const archiveItems = [
